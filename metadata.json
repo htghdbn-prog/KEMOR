@@ -1,0 +1,10 @@
+{
+  "name": "KEMOR",
+  "description": "Premium voice, video, screen sharing, and messaging platform with persistent servers, channels, and rich audio controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
